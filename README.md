@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan0027&label=Profile%20views&color=0e75b6&style=flat" alt="aryan0027" /> </p>
 
-- 🔭 This is my minor projects **Cryptography**
+- 🔭 This is my minor projects **hotstar-clone**
 
-- 👯  This is my major projects **College Chatbot Initiative**
+- 👯  This is my major projects **snake game using Java**
 
 - 📫 How to reach me **aryan27razz@gmail.com**
 
